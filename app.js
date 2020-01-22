@@ -1,0 +1,1 @@
+const TEXT = "wprowadzono pierwszy TEXT w app.js"
